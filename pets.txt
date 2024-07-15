@@ -1,0 +1,8 @@
+cats
+fish
+birds
+dogs
+ducks
+crows
+frogs
+turtels
