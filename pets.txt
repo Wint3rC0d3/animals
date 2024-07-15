@@ -1,6 +1,0 @@
-cats
-fish
-birds
-dogs
-ducks
-crows
